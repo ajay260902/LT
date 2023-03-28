@@ -1,1 +1,1 @@
-# LT
+# LT Compiler for Functional Language
